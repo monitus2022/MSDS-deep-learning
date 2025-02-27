@@ -1,6 +1,8 @@
 pandas
-tensorflow
+tensorflow[and-cuda]
 matplotlib
 opencv-python
 seaborn 
 scikit-learn
+pillow
+keras
