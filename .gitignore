@@ -6,3 +6,5 @@ env
 *.jpeg
 *.JPG
 *.png
+*/checkpoint.weights.h5
+*/Dataset
