@@ -1,2 +1,8 @@
 env
 *.tif
+*/glove.6B.100d.txt
+*/nltk_data
+*.jpg
+*.jpeg
+*.JPG
+*.png

@@ -8,3 +8,5 @@ pillow
 keras
 tokenization
 wordcloud
+nltk
+keras-tuner
