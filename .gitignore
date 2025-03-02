@@ -8,3 +8,4 @@ env
 *.png
 */checkpoint.weights.h5
 */Dataset
+*.weights.h5
