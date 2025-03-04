@@ -9,3 +9,5 @@ env
 */checkpoint.weights.h5
 */Dataset
 *.weights.h5
+*.tfrec
+*.zip

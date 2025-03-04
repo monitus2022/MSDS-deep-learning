@@ -1,5 +1,5 @@
 pandas
-tensorflow[and-cuda]= "^2.15"
+tensorflow[and-cuda]
 matplotlib
 opencv-python
 seaborn 
@@ -10,3 +10,8 @@ tokenization
 wordcloud
 nltk
 keras-tuner
+torch
+torchvision
+numpy<2.0.0
+ipywidgets
+kaggle
