@@ -1,1 +1,1 @@
-This is a repo saving my work for my Master of Science in Data Science
+This is a repo saving my work for my Deep Learning Course in Master of Science in Data Science
